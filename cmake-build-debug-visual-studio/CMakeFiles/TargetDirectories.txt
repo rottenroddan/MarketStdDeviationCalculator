@@ -1,0 +1,3 @@
+C:/Users/steve/CLionProjects/MarketStdDeviationCalculator/cmake-build-debug-visual-studio/CMakeFiles/MarketStdDeviationCalculator.dir
+C:/Users/steve/CLionProjects/MarketStdDeviationCalculator/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/steve/CLionProjects/MarketStdDeviationCalculator/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
