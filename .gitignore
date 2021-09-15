@@ -1,3 +1,4 @@
 apikey.txt
 cmake-build-release/
 cmake-build-debug-visual-studio/
+curl/
