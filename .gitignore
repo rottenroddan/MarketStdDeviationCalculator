@@ -3,4 +3,3 @@ cmake-build-release/
 cmake-build-debug-visual-studio/
 curl/
 .idea/
-apikey.txt
